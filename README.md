@@ -26,7 +26,7 @@ This is a responsive and modern **Personal Portfolio Website** built using **HTM
 
 ## 📸 Screenshots
 
-![Preview Portfolio](https://raw.githubusercontent.com/username/repo/main/porto.png)
+![Preview Portfolio](porto.png)
 
 
 
@@ -39,6 +39,5 @@ This is a responsive and modern **Personal Portfolio Website** built using **HTM
  ```bash
 cd your-portfolio
 
-open index.html
 
 
